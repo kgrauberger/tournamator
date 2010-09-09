@@ -1,0 +1,14 @@
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.CurrentTournamentNameForm.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.Main.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.Properties.Resources.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.RoundGenerator.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.SaveWarning.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.TournamentSetup.resources
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.csproj.GenerateResource.Cache
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\bin\Debug\PlayerInfo.sdf
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\bin\Debug\Tournamator.exe.config
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\bin\Debug\Tournamator.exe
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\bin\Debug\Tournamator.pdb
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.exe
+C:\Users\Robert Van Tyne\Documents\Visual Studio 2008\Projects\Tournamator\Tournamator\obj\Debug\Tournamator.pdb
